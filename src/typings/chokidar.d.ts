@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-declare module 'vscode-chokidar' {
+declare module 'chokidar' {
 
 	/**
 	 *  takes paths to be watched recursively and options

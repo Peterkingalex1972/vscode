@@ -5,6 +5,6 @@
   "author": "Microsoft ",
   "private": true,
   "devDependencies": {
-    "gulp-watch": "^4.3.9"
+    "gulp-watch": "deepak1556/gulp-watch#vscode"
   }
 }
